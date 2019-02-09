@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eating burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agoldsher/Burger.git"
+  },
+  "author": "A Goldsher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agoldsher/Burger/issues"
+  },
+  "homepage": "https://github.com/agoldsher/Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
